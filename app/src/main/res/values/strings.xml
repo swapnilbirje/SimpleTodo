@@ -4,4 +4,10 @@
     <string name="title_activity_edit_item">EditItemActivity</string>
     <string name="title_edit_card">Edit Item</string>
     <string name="title_simple_todo">Simple ToDo</string>
+    <string name="item_added">New task Added</string>
+    <string name="enter_valid_item">Please enter a valid task</string>
+    <string name="item_deleted">Task deleted</string>
+    <string name="error_delete">Error Deleting ...Please try later</string>
+    <string name="item_edited">Task edited successfully</string>
+    <string name="error_edit">Error editing ...Please try later</string>
 </resources>
